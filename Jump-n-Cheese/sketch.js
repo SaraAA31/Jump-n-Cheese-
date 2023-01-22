@@ -1,6 +1,6 @@
 /*
 
-The Game Project 6 
+The Game Project  
 
 */
 
